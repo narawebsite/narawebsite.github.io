@@ -14,12 +14,49 @@ h1 {
   margin-right: auto;
 }
 
+.homepage-wrapper i{
+  text-align: left;
+}
+
+.homepage-wrapper h3 {
+  text-align: center;
+  line-height: 25px;
+}
+
+
+.homepage-wrapper p{
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 25px;
+  margin-top: 35px;
+  text-align: left;
+}
+
+.rec {
+  text-align: center;
+}
+
+.rec p{
+  margin-bottom: 35px;
+}
+
+.contact li {
+  float: left;
+  padding-right: 15px;
+  margin-right: 15px;
+}
+
+.contact li:first-child {
+  list-style: none;
+}
+
 .hero-wrapper {
   background: #8A53A6;
   padding: 50px 0;
   text-align: center;
   color: #fff;
   font-weight: normal;
+  margin-bottom: 25px;
 }
 
 .hero-wrapper h1 {
